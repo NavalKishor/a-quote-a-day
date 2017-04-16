@@ -1,6 +1,6 @@
 {
   "name": "our-quote-a-day",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Displays a random quote on refresh",
   "main": "app.js",
   "scripts": {
