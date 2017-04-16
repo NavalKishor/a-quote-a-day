@@ -9,6 +9,6 @@
   "author": "naval_kishor_jha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "*"
   }
 }
